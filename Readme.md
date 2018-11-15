@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/GridControlSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/GridControlSample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/GridControlSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GridControlSample/MainWindow.xaml.vb))
+* [RectangleAdorner.cs](./CS/GridControlSample/RectangleAdorner.cs) (VB: [RectangleAdorner.vb](./VB/GridControlSample/RectangleAdorner.vb))
+* [SampleSource.cs](./CS/GridControlSample/SampleSource.cs) (VB: [SampleSource.vb](./VB/GridControlSample/SampleSource.vb))
+<!-- default file list end -->
 # How to create a frame around selected cells in GridControl 
 
 
